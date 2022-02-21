@@ -319,4 +319,59 @@ td > div > p{
     padding-top: 3%;
     padding-bottom: 3%;
 }
-
+.content7{
+    background-color: #f7f7f7;
+}
+.table5{
+    display: flex;
+    justify-content: center;
+}
+.logo2{
+    display: flex;
+    justify-content: left;
+}
+th{
+    text-align: left;
+}
+.table_text4{
+    color: black;
+    font-weight: lighter;
+    font-size: 0.8em;
+    padding-top: 2%;
+    text-align: left;
+    padding: 0%;
+}
+.table_text3{
+    color: black;
+    font-weight: lighter;
+    font-size: 0.8em;
+    padding-top: 0%;
+    text-align: left;
+    padding-left: 7%;
+    width: 200px;
+}
+.style{
+    color: black;
+    font-weight: lighter;
+    font-size: 0.8em;
+    padding-top: 2%;
+    text-align: left;
+    padding: 0%;
+}
+.image5{
+    width: 250px;
+}
+.colomn1{
+    width: 250px;
+    padding-left: 7%;
+    padding-top: 2%;
+    margin: 0%;
+}
+.colomn3{
+    width: 250px;
+    margin: 0%;
+}
+.colomn2{
+    padding-left: 5%;
+    margin: 0%;
+}
